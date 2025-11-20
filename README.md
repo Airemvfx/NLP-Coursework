@@ -1,3 +1,3 @@
-# NLP-Coursework
+# CE4145 NLP Coursework - Mateusz Borowicz (2202830) 
 
-Dataset: https://huggingface.co/datasets/vimal-quilt/tweet-eval-emotion
+Dataset Used: https://huggingface.co/datasets/vimal-quilt/tweet-eval-emotion
